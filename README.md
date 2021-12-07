@@ -10,7 +10,7 @@ Get the two values from the user
 ### Step 2: 
 Assign the value of second variable to a temporary variable 
 ### Step 3: 
-###
+### Step 67:
 Assign the value of the first variable to the second variable.
 ### Step 4:  
 Assign the value in temporary variable to the first variable
